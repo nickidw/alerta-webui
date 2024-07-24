@@ -57,7 +57,7 @@
             :key="index"
             xs12
             sm6
-            md3
+            md2
           >
             <alert-indicator
               :title="indicator.text"
